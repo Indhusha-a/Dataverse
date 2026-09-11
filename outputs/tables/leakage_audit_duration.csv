@@ -1,0 +1,10 @@
+feature_name,source_column,available_at_prediction_time,uses_target_information,uses_future_information,decision,reason
+pickup_hour,pickup_timestamp,True,False,False,include,"Deterministic, known at booking"
+pickup_zone,origin_loc_id,True,False,False,include,Known at booking
+dropoff_zone,dest_loc_id,True,False,False,include,Assume destination entered at booking -- state this assumption in the notebook
+distance_miles,distance_miles,True,False,False,include,Treated as a pre-trip estimate; document this assumption explicitly in the notebook
+rider_count,rider_count,True,False,False,include,Known at booking
+dropoff_timestamp,dropoff_timestamp,False,False,True,exclude,Post-trip
+charge_total/tips/tolls/fees,fee columns,False,True,True,exclude,Derived from/settled with base_fare after the trip
+fare_settlement_method,fare_settlement_method,False,False,True,exclude,"Correlates strongly with negative base_fare (method 4 -> 46.9% negative, method 1 -> ~0%); a post-trip settlement outcome code, not known at booking"
+provider_code,provider_code,True,False,False,include_optional,Known before the trip starts; no missingness; test empirically whether it improves validation MAE

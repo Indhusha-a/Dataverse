@@ -1,0 +1,253 @@
+origin_loc_id,total_pickups,cluster,loc_id,borough_name,zone_name,service_zone
+1,6176,0,1,EWR,Newark Airport,EWR
+3,5039,1,3,Bronx,Allerton/Pelham Gardens,Boro Zone
+4,154510,3,4,Manhattan,Alphabet City,Yellow Zone
+6,1042,2,6,Staten Island,Arrochar/Fort Wadsworth,Boro Zone
+7,95253,2,7,Queens,Astoria,Boro Zone
+8,617,3,8,Queens,Astoria Park,Boro Zone
+9,2044,1,9,Queens,Auburndale,Boro Zone
+10,23696,2,10,Queens,Baisley Park,Boro Zone
+11,3525,1,11,Brooklyn,Bath Beach,Boro Zone
+12,15205,0,12,Manhattan,Battery Park,Yellow Zone
+13,289170,0,13,Manhattan,Battery Park City,Yellow Zone
+14,20835,1,14,Brooklyn,Bay Ridge,Boro Zone
+15,1826,1,15,Queens,Bay Terrace/Fort Totten,Boro Zone
+16,3656,2,16,Queens,Bayside,Boro Zone
+17,48119,2,17,Brooklyn,Bedford,Boro Zone
+18,11076,1,18,Bronx,Bedford Park,Boro Zone
+19,4878,2,19,Queens,Bellerose,Boro Zone
+20,5875,1,20,Bronx,Belmont,Boro Zone
+21,6595,1,21,Brooklyn,Bensonhurst East,Boro Zone
+22,9217,1,22,Brooklyn,Bensonhurst West,Boro Zone
+23,375,2,23,Staten Island,Bloomfield/Emerson Hill,Boro Zone
+24,127241,0,24,Manhattan,Bloomingdale,Yellow Zone
+25,53516,3,25,Brooklyn,Boerum Hill,Boro Zone
+26,12891,1,26,Brooklyn,Borough Park,Boro Zone
+27,333,0,27,Queens,Breezy Point/Fort Tilden/Riis Beach,Boro Zone
+28,13905,2,28,Queens,Briarwood/Jamaica Hills,Boro Zone
+29,7050,1,29,Brooklyn,Brighton Beach,Boro Zone
+30,213,3,30,Queens,Broad Channel,Boro Zone
+31,1244,0,31,Bronx,Bronx Park,Boro Zone
+32,6922,1,32,Bronx,Bronxdale,Boro Zone
+33,60037,0,33,Brooklyn,Brooklyn Heights,Boro Zone
+34,8474,3,34,Brooklyn,Brooklyn Navy Yard,Boro Zone
+35,33175,1,35,Brooklyn,Brownsville,Boro Zone
+36,43492,3,36,Brooklyn,Bushwick North,Boro Zone
+37,71456,3,37,Brooklyn,Bushwick South,Boro Zone
+38,4882,1,38,Queens,Cambria Heights,Boro Zone
+39,39575,1,39,Brooklyn,Canarsie,Boro Zone
+40,16795,2,40,Brooklyn,Carroll Gardens,Boro Zone
+41,204984,0,41,Manhattan,Central Harlem,Boro Zone
+42,147688,2,42,Manhattan,Central Harlem North,Boro Zone
+43,588548,0,43,Manhattan,Central Park,Yellow Zone
+45,99932,0,45,Manhattan,Chinatown,Yellow Zone
+46,842,0,46,Bronx,City Island,Boro Zone
+47,9378,1,47,Bronx,Claremont/Bathgate,Boro Zone
+48,1052015,3,48,Manhattan,Clinton East,Yellow Zone
+49,42405,2,49,Brooklyn,Clinton Hill,Boro Zone
+50,311655,0,50,Manhattan,Clinton West,Yellow Zone
+51,15479,1,51,Bronx,Co-Op City,Boro Zone
+52,16534,2,52,Brooklyn,Cobble Hill,Boro Zone
+53,4188,2,53,Queens,College Point,Boro Zone
+54,4606,2,54,Brooklyn,Columbia Street,Boro Zone
+55,16259,1,55,Brooklyn,Coney Island,Boro Zone
+56,13436,2,56,Queens,Corona,Boro Zone
+57,996,3,57,Queens,Corona,Boro Zone
+58,697,2,58,Bronx,Country Club,Boro Zone
+59,320,2,59,Bronx,Crotona Park,Boro Zone
+60,7551,1,60,Bronx,Crotona Park East,Boro Zone
+61,83883,2,61,Brooklyn,Crown Heights North,Boro Zone
+62,24316,1,62,Brooklyn,Crown Heights South,Boro Zone
+63,16532,1,63,Brooklyn,Cypress Hills,Boro Zone
+64,1781,2,64,Queens,Douglaston,Boro Zone
+65,60057,0,65,Brooklyn,Downtown Brooklyn/MetroTech,Boro Zone
+66,58673,0,66,Brooklyn,DUMBO/Vinegar Hill,Boro Zone
+67,5435,1,67,Brooklyn,Dyker Heights,Boro Zone
+68,1158624,0,68,Manhattan,East Chelsea,Yellow Zone
+69,19244,1,69,Bronx,East Concourse/Concourse Village,Boro Zone
+70,120779,0,70,Queens,East Elmhurst,Boro Zone
+71,27668,1,71,Brooklyn,East Flatbush/Farragut,Boro Zone
+72,30958,1,72,Brooklyn,East Flatbush/Remsen Village,Boro Zone
+73,1874,2,73,Queens,East Flushing,Boro Zone
+74,183087,0,74,Manhattan,East Harlem North,Boro Zone
+75,344729,0,75,Manhattan,East Harlem South,Boro Zone
+76,60552,1,76,Brooklyn,East New York,Boro Zone
+77,15854,1,77,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone
+78,12360,1,78,Bronx,East Tremont,Boro Zone
+79,1143394,3,79,Manhattan,East Village,Yellow Zone
+80,62787,3,80,Brooklyn,East Williamsburg,Boro Zone
+81,8142,1,81,Bronx,Eastchester,Boro Zone
+82,32847,3,82,Queens,Elmhurst,Boro Zone
+83,12500,2,83,Queens,Elmhurst/Maspeth,Boro Zone
+85,19851,1,85,Brooklyn,Erasmus,Boro Zone
+86,10923,1,86,Queens,Far Rockaway,Boro Zone
+87,324371,0,87,Manhattan,Financial District North,Yellow Zone
+88,163429,0,88,Manhattan,Financial District South,Yellow Zone
+89,48048,1,89,Brooklyn,Flatbush/Ditmas Park,Boro Zone
+90,684971,0,90,Manhattan,Flatiron,Yellow Zone
+91,27873,1,91,Brooklyn,Flatlands,Boro Zone
+92,15448,3,92,Queens,Flushing,Boro Zone
+93,24670,3,93,Queens,Flushing Meadows-Corona Park,Boro Zone
+94,5408,1,94,Bronx,Fordham South,Boro Zone
+95,29062,2,95,Queens,Forest Hills,Boro Zone
+96,967,2,96,Queens,Forest Park/Highland Park,Boro Zone
+97,62638,2,97,Brooklyn,Fort Greene,Boro Zone
+98,2910,2,98,Queens,Fresh Meadows,Boro Zone
+100,616442,0,100,Manhattan,Garment District,Yellow Zone
+101,3279,2,101,Queens,Glen Oaks,Boro Zone
+102,7735,2,102,Queens,Glendale,Boro Zone
+106,12986,3,106,Brooklyn,Gowanus,Boro Zone
+107,858436,0,107,Manhattan,Gramercy,Yellow Zone
+108,5684,1,108,Brooklyn,Gravesend,Boro Zone
+111,144,2,111,Brooklyn,Green-Wood Cemetery,Boro Zone
+112,66976,3,112,Brooklyn,Greenpoint,Boro Zone
+113,630841,0,113,Manhattan,Greenwich Village North,Yellow Zone
+114,648900,3,114,Manhattan,Greenwich Village South,Yellow Zone
+115,370,2,115,Staten Island,Grymes Hill/Clifton,Boro Zone
+116,90829,2,116,Manhattan,Hamilton Heights,Boro Zone
+117,10460,1,117,Queens,Hammels/Arverne,Boro Zone
+118,267,2,118,Staten Island,Heartland Village/Todt Hill,Boro Zone
+119,11132,1,119,Bronx,Highbridge,Boro Zone
+120,1013,2,120,Manhattan,Highbridge Park,Boro Zone
+121,8474,1,121,Queens,Hillcrest/Pomonok,Boro Zone
+122,5642,1,122,Queens,Hollis,Boro Zone
+123,8845,1,123,Brooklyn,Homecrest,Boro Zone
+124,6693,2,124,Queens,Howard Beach,Boro Zone
+125,224760,0,125,Manhattan,Hudson Sq,Yellow Zone
+126,8720,1,126,Bronx,Hunts Point,Boro Zone
+127,20925,2,127,Manhattan,Inwood,Boro Zone
+128,1762,0,128,Manhattan,Inwood Hill Park,Boro Zone
+129,53636,2,129,Queens,Jackson Heights,Boro Zone
+130,50379,3,130,Queens,Jamaica,Boro Zone
+131,8173,1,131,Queens,Jamaica Estates,Boro Zone
+132,1923317,0,132,Queens,JFK Airport,Airports
+133,11344,1,133,Brooklyn,Kensington,Boro Zone
+134,12597,2,134,Queens,Kew Gardens,Boro Zone
+135,6700,1,135,Queens,Kew Gardens Hills,Boro Zone
+136,7386,1,136,Bronx,Kingsbridge Heights,Boro Zone
+137,510562,0,137,Manhattan,Kips Bay,Yellow Zone
+138,1213748,0,138,Queens,LaGuardia Airport,Airports
+139,6185,1,139,Queens,Laurelton,Boro Zone
+140,866603,0,140,Manhattan,Lenox Hill East,Yellow Zone
+141,974104,0,141,Manhattan,Lenox Hill West,Yellow Zone
+142,1295431,0,142,Manhattan,Lincoln Square East,Yellow Zone
+143,509818,0,143,Manhattan,Lincoln Square West,Yellow Zone
+144,503230,3,144,Manhattan,Little Italy/NoLiTa,Yellow Zone
+145,99672,2,145,Queens,Long Island City/Hunters Point,Boro Zone
+146,45289,2,146,Queens,Long Island City/Queens Plaza,Boro Zone
+147,6876,1,147,Bronx,Longwood,Boro Zone
+148,565289,3,148,Manhattan,Lower East Side,Yellow Zone
+149,6539,1,149,Brooklyn,Madison,Boro Zone
+150,3920,0,150,Brooklyn,Manhattan Beach,Boro Zone
+151,352808,0,151,Manhattan,Manhattan Valley,Yellow Zone
+152,58941,0,152,Manhattan,Manhattanville,Boro Zone
+153,2473,2,153,Manhattan,Marble Hill,Boro Zone
+154,733,0,154,Brooklyn,Marine Park/Floyd Bennett Field,Boro Zone
+155,11989,1,155,Brooklyn,Marine Park/Mill Basin,Boro Zone
+156,155,2,156,Staten Island,Mariners Harbor,Boro Zone
+157,20376,3,157,Queens,Maspeth,Boro Zone
+158,452769,3,158,Manhattan,Meatpacking/West Village West,Yellow Zone
+159,17630,1,159,Bronx,Melrose South,Boro Zone
+160,8728,2,160,Queens,Middle Village,Boro Zone
+161,1922296,0,161,Manhattan,Midtown Center,Yellow Zone
+162,1408526,0,162,Manhattan,Midtown East,Yellow Zone
+163,1143686,0,163,Manhattan,Midtown North,Yellow Zone
+164,944865,0,164,Manhattan,Midtown South,Yellow Zone
+165,12135,1,165,Brooklyn,Midwood,Boro Zone
+166,264471,0,166,Manhattan,Morningside Heights,Boro Zone
+167,13443,1,167,Bronx,Morrisania/Melrose,Boro Zone
+168,33771,2,168,Bronx,Mott Haven/Port Morris,Boro Zone
+169,12592,1,169,Bronx,Mount Hope,Boro Zone
+170,1202345,0,170,Manhattan,Murray Hill,Yellow Zone
+171,3912,2,171,Queens,Murray Hill-Queens,Boro Zone
+172,227,2,172,Staten Island,New Dorp/Midland Beach,Boro Zone
+173,8045,3,173,Queens,North Corona,Boro Zone
+174,8972,1,174,Bronx,Norwood,Boro Zone
+175,2423,1,175,Queens,Oakland Gardens,Boro Zone
+176,116,2,176,Staten Island,Oakwood,Boro Zone
+177,31671,1,177,Brooklyn,Ocean Hill,Boro Zone
+178,3181,1,178,Brooklyn,Ocean Parkway South,Boro Zone
+179,35389,2,179,Queens,Old Astoria,Boro Zone
+180,6487,2,180,Queens,Ozone Park,Boro Zone
+181,53608,3,181,Brooklyn,Park Slope,Boro Zone
+182,13649,1,182,Bronx,Parkchester,Boro Zone
+183,3183,2,183,Bronx,Pelham Bay,Boro Zone
+184,630,2,184,Bronx,Pelham Bay Park,Boro Zone
+185,6336,1,185,Bronx,Pelham Parkway,Boro Zone
+186,1434048,0,186,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+188,50615,1,188,Brooklyn,Prospect-Lefferts Gardens,Boro Zone
+189,21529,2,189,Brooklyn,Prospect Heights,Boro Zone
+190,4123,0,190,Brooklyn,Prospect Park,Boro Zone
+191,12209,1,191,Queens,Queens Village,Boro Zone
+192,3403,2,192,Queens,Queensboro Hill,Boro Zone
+193,32663,1,193,Queens,Queensbridge/Ravenswood,Boro Zone
+194,2173,0,194,Manhattan,Randalls Island,Yellow Zone
+195,18427,1,195,Brooklyn,Red Hook,Boro Zone
+196,13084,0,196,Queens,Rego Park,Boro Zone
+197,31900,2,197,Queens,Richmond Hill,Boro Zone
+198,23260,2,198,Queens,Ridgewood,Boro Zone
+200,5493,1,200,Bronx,Riverdale/North Riverdale/Fieldston,Boro Zone
+201,3144,1,201,Queens,Rockaway Park,Boro Zone
+202,6678,2,202,Manhattan,Roosevelt Island,Boro Zone
+203,5591,1,203,Queens,Rosedale,Boro Zone
+205,16256,1,205,Queens,Saint Albans,Boro Zone
+206,179,2,206,Staten Island,Saint George/New Brighton,Boro Zone
+207,3423,1,207,Queens,Saint Michaels Cemetery/Woodside,Boro Zone
+208,7648,2,208,Bronx,Schuylerville/Edgewater Park,Boro Zone
+209,103520,3,209,Manhattan,Seaport,Yellow Zone
+210,11044,1,210,Brooklyn,Sheepshead Bay,Boro Zone
+211,382141,0,211,Manhattan,SoHo,Yellow Zone
+212,9688,1,212,Bronx,Soundview/Bruckner,Boro Zone
+213,16881,1,213,Bronx,Soundview/Castle Hill,Boro Zone
+214,472,2,214,Staten Island,South Beach/Dongan Hills,Boro Zone
+215,18108,1,215,Queens,South Jamaica,Boro Zone
+216,39564,2,216,Queens,South Ozone Park,Boro Zone
+217,8865,2,217,Brooklyn,South Williamsburg,Boro Zone
+218,11542,1,218,Queens,Springfield Gardens North,Boro Zone
+219,11801,2,219,Queens,Springfield Gardens South,Boro Zone
+220,9285,2,220,Bronx,Spuyten Duyvil/Kingsbridge,Boro Zone
+221,707,2,221,Staten Island,Stapleton,Boro Zone
+222,11660,1,222,Brooklyn,Starrett City,Boro Zone
+223,31567,2,223,Queens,Steinway,Boro Zone
+224,98832,2,224,Manhattan,Stuy Town/Peter Cooper Village,Yellow Zone
+225,52938,2,225,Brooklyn,Stuyvesant Heights,Boro Zone
+226,83184,2,226,Queens,Sunnyside,Boro Zone
+227,8781,1,227,Brooklyn,Sunset Park East,Boro Zone
+228,23805,2,228,Brooklyn,Sunset Park West,Boro Zone
+229,711289,0,229,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone
+230,1364651,0,230,Manhattan,Times Sq/Theatre District,Yellow Zone
+231,631976,0,231,Manhattan,TriBeCa/Civic Center,Yellow Zone
+232,126497,2,232,Manhattan,Two Bridges/Seward Park,Yellow Zone
+233,483248,0,233,Manhattan,UN/Turtle Bay South,Yellow Zone
+234,1198952,0,234,Manhattan,Union Sq,Yellow Zone
+235,13854,1,235,Bronx,University Heights/Morris Heights,Boro Zone
+236,1770947,0,236,Manhattan,Upper East Side North,Yellow Zone
+237,2015045,0,237,Manhattan,Upper East Side South,Yellow Zone
+238,813632,0,238,Manhattan,Upper West Side North,Yellow Zone
+239,1134476,0,239,Manhattan,Upper West Side South,Yellow Zone
+240,1536,1,240,Bronx,Van Cortlandt Park,Boro Zone
+241,9600,1,241,Bronx,Van Cortlandt Village,Boro Zone
+242,9082,1,242,Bronx,Van Nest/Morris Park,Boro Zone
+243,45469,2,243,Manhattan,Washington Heights North,Boro Zone
+244,102884,2,244,Manhattan,Washington Heights South,Boro Zone
+245,125,2,245,Staten Island,West Brighton,Boro Zone
+246,822205,0,246,Manhattan,West Chelsea/Hudson Yards,Yellow Zone
+247,20602,2,247,Bronx,West Concourse,Boro Zone
+248,9054,1,248,Bronx,West Farms/Bronx River,Boro Zone
+249,979209,3,249,Manhattan,West Village,Yellow Zone
+250,9147,2,250,Bronx,Westchester Village/Unionport,Boro Zone
+251,214,2,251,Staten Island,Westerleigh,Boro Zone
+252,3444,2,252,Queens,Whitestone,Boro Zone
+253,396,3,253,Queens,Willets Point,Boro Zone
+254,15024,1,254,Bronx,Williamsbridge/Olinville,Boro Zone
+255,99813,3,255,Brooklyn,Williamsburg (North Side),Boro Zone
+256,74948,3,256,Brooklyn,Williamsburg (South Side),Boro Zone
+257,6882,2,257,Brooklyn,Windsor Terrace,Boro Zone
+258,14210,1,258,Queens,Woodhaven,Boro Zone
+259,8350,1,259,Bronx,Woodlawn/Wakefield,Boro Zone
+260,33472,2,260,Queens,Woodside,Boro Zone
+261,226508,0,261,Manhattan,World Trade Center,Yellow Zone
+262,604458,1,262,Manhattan,Yorkville East,Yellow Zone
+263,809246,0,263,Manhattan,Yorkville West,Yellow Zone
+264,68365,0,264,Unknown,,
+265,20719,3,265,,Outside of NYC,

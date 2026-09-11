@@ -1,0 +1,10 @@
+.venv/
+data/
+processed/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/tables/dataset_splits/train.parquet
+outputs/tables/dataset_splits/validation.parquet
+AI.md
+Activity.md

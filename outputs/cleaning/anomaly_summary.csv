@@ -1,0 +1,73 @@
+month,anomaly_name,affected_rows,percentage_total,treatment,justification
+2025_04,negative_fare,186720,4.7026,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_04,zero_distance_nonzero_fare,76275,1.921,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_04,zero_passengers,23101,0.5818,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_04,dropoff_before_pickup,163,0.0041,drop,Logically impossible ordering of timestamps.
+2025_04,nonpositive_duration,34769,0.8757,drop,Zero/negative duration cannot represent a real trip.
+2025_04,unrealistic_speed,1002,0.0252,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_05,negative_fare,325266,7.0836,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_05,zero_distance_nonzero_fare,109193,2.378,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_05,zero_passengers,23967,0.5219,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_05,dropoff_before_pickup,101,0.0022,drop,Logically impossible ordering of timestamps.
+2025_05,nonpositive_duration,64272,1.3997,drop,Zero/negative duration cannot represent a real trip.
+2025_05,unrealistic_speed,1175,0.0256,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_06,negative_fare,275565,6.3745,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_06,zero_distance_nonzero_fare,109304,2.5285,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_06,zero_passengers,22791,0.5272,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_06,dropoff_before_pickup,231,0.0053,drop,Logically impossible ordering of timestamps.
+2025_06,nonpositive_duration,68583,1.5865,drop,Zero/negative duration cannot represent a real trip.
+2025_06,unrealistic_speed,1396,0.0323,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_07,negative_fare,247088,6.3373,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_07,zero_distance_nonzero_fare,101078,2.5924,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_07,zero_passengers,20544,0.5269,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_07,dropoff_before_pickup,1,0.0,drop,Logically impossible ordering of timestamps.
+2025_07,nonpositive_duration,56064,1.4379,drop,Zero/negative duration cannot represent a real trip.
+2025_07,unrealistic_speed,947,0.0243,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_08,negative_fare,261191,7.3079,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_08,zero_distance_nonzero_fare,84408,2.3617,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_08,zero_passengers,17272,0.4833,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_08,dropoff_before_pickup,2,0.0001,drop,Logically impossible ordering of timestamps.
+2025_08,nonpositive_duration,47833,1.3383,drop,Zero/negative duration cannot represent a real trip.
+2025_08,unrealistic_speed,941,0.0263,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_09,negative_fare,252718,5.9449,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_09,zero_distance_nonzero_fare,102212,2.4044,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_09,zero_passengers,22186,0.5219,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_09,dropoff_before_pickup,0,0.0,drop,Logically impossible ordering of timestamps.
+2025_09,nonpositive_duration,57179,1.3451,drop,Zero/negative duration cannot represent a real trip.
+2025_09,unrealistic_speed,1059,0.0249,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_10,negative_fare,321307,7.2551,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_10,zero_distance_nonzero_fare,94720,2.1388,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_10,zero_passengers,22310,0.5038,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_10,dropoff_before_pickup,2,0.0,drop,Logically impossible ordering of timestamps.
+2025_10,nonpositive_duration,67968,1.5347,drop,Zero/negative duration cannot represent a real trip.
+2025_10,unrealistic_speed,1122,0.0253,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_11,negative_fare,395093,9.4487,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_11,zero_distance_nonzero_fare,79446,1.9,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_11,zero_passengers,19942,0.4769,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_11,dropoff_before_pickup,1435,0.0343,drop,Logically impossible ordering of timestamps.
+2025_11,nonpositive_duration,62120,1.4856,drop,Zero/negative duration cannot represent a real trip.
+2025_11,unrealistic_speed,1001,0.0239,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2025_12,negative_fare,48175,1.119,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2025_12,zero_distance_nonzero_fare,148528,3.4501,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2025_12,zero_passengers,18827,0.4373,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2025_12,dropoff_before_pickup,2,0.0,drop,Logically impossible ordering of timestamps.
+2025_12,nonpositive_duration,58021,1.3478,drop,Zero/negative duration cannot represent a real trip.
+2025_12,unrealistic_speed,974,0.0226,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2026_01,negative_fare,39463,1.0594,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2026_01,zero_distance_nonzero_fare,122482,3.2882,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2026_01,zero_passengers,14787,0.397,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2026_01,dropoff_before_pickup,1,0.0,drop,Logically impossible ordering of timestamps.
+2026_01,nonpositive_duration,45070,1.21,drop,Zero/negative duration cannot represent a real trip.
+2026_01,unrealistic_speed,732,0.0197,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2026_02,negative_fare,26721,0.7859,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2026_02,zero_distance_nonzero_fare,120723,3.5508,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2026_02,zero_passengers,12884,0.379,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2026_02,dropoff_before_pickup,2,0.0001,drop,Logically impossible ordering of timestamps.
+2026_02,nonpositive_duration,40598,1.1941,drop,Zero/negative duration cannot represent a real trip.
+2026_02,unrealistic_speed,620,0.0182,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."
+2026_03,negative_fare,20724,0.5243,drop,Negative base_fare is not a valid charge; no data-dictionary meaning found.
+2026_03,zero_distance_nonzero_fare,118741,3.0042,keep_and_flag,Plausible for short/cancelled-but-charged trips; kept with a flag column for downstream review.
+2026_03,zero_passengers,12967,0.3281,keep_and_flag,May reflect a sensor/logging default rather than an empty cab; kept with a flag column.
+2026_03,dropoff_before_pickup,2,0.0001,drop,Logically impossible ordering of timestamps.
+2026_03,nonpositive_duration,49133,1.2431,drop,Zero/negative duration cannot represent a real trip.
+2026_03,unrealistic_speed,930,0.0235,drop,"Implied speed exceeds 100 mph. Percentile check on 2025-04 showed the distribution breaking sharply between the 99.9th percentile (46.2 mph) and the 99.99th percentile (2,479 mph) -- a ~50x jump consistent with GPS/timestamp errors rather than real trips. 100 mph sits just above the real-world break."

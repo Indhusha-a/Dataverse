@@ -1,0 +1,21 @@
+origin_loc_id,dest_loc_id,trip_count,loc_id,borough_name,origin_zone,service_zone,loc_id_d,borough_name_d,dest_zone,service_zone_d
+237,236,290301,237,Manhattan,Upper East Side South,Yellow Zone,236,Manhattan,Upper East Side North,Yellow Zone
+236,237,247754,236,Manhattan,Upper East Side North,Yellow Zone,237,Manhattan,Upper East Side South,Yellow Zone
+237,237,202515,237,Manhattan,Upper East Side South,Yellow Zone,237,Manhattan,Upper East Side South,Yellow Zone
+236,236,186478,236,Manhattan,Upper East Side North,Yellow Zone,236,Manhattan,Upper East Side North,Yellow Zone
+161,237,135075,161,Manhattan,Midtown Center,Yellow Zone,237,Manhattan,Upper East Side South,Yellow Zone
+237,161,126223,237,Manhattan,Upper East Side South,Yellow Zone,161,Manhattan,Midtown Center,Yellow Zone
+161,236,108494,161,Manhattan,Midtown Center,Yellow Zone,236,Manhattan,Upper East Side North,Yellow Zone
+237,162,101004,237,Manhattan,Upper East Side South,Yellow Zone,162,Manhattan,Midtown East,Yellow Zone
+142,239,100046,142,Manhattan,Lincoln Square East,Yellow Zone,239,Manhattan,Upper West Side South,Yellow Zone
+239,238,96595,239,Manhattan,Upper West Side South,Yellow Zone,238,Manhattan,Upper West Side North,Yellow Zone
+239,142,96294,239,Manhattan,Upper West Side South,Yellow Zone,142,Manhattan,Lincoln Square East,Yellow Zone
+236,161,95525,236,Manhattan,Upper East Side North,Yellow Zone,161,Manhattan,Midtown Center,Yellow Zone
+141,236,92621,141,Manhattan,Lenox Hill West,Yellow Zone,236,Manhattan,Upper East Side North,Yellow Zone
+132,265,92353,132,Queens,JFK Airport,Airports,265,,Outside of NYC,
+186,230,88134,186,Manhattan,Penn Station/Madison Sq West,Yellow Zone,230,Manhattan,Times Sq/Theatre District,Yellow Zone
+132,132,87565,132,Queens,JFK Airport,Airports,132,Queens,JFK Airport,Airports
+237,141,86947,237,Manhattan,Upper East Side South,Yellow Zone,141,Manhattan,Lenox Hill West,Yellow Zone
+236,141,86594,236,Manhattan,Upper East Side North,Yellow Zone,141,Manhattan,Lenox Hill West,Yellow Zone
+162,237,85683,162,Manhattan,Midtown East,Yellow Zone,237,Manhattan,Upper East Side South,Yellow Zone
+238,239,83040,238,Manhattan,Upper West Side North,Yellow Zone,239,Manhattan,Upper West Side South,Yellow Zone
